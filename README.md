@@ -20,7 +20,6 @@ Built with clean architecture and modern iOS development practices.
 - iOS 26
 
  📱 Screenshots
-(Screenshots will be added)
 
  ⚙️ How to Run
 1. Clone the repository
