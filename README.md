@@ -18,6 +18,8 @@ Built with clean architecture and modern iOS development practices.
 - REST API (OpenWeather)
 - Xcode
 - iOS 26
+- screenshot of  output
+-  https://drive.google.com/file/d/1YIT00maoMvBF_et9m-AC6MRbhOUbfFjm/view?usp=drive_link
  ⚙️ How to Run
 1. Clone the repository
 3. Add your OpenWeather API key
